@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: bisque;
+}
+#sprite img {
+    max-width: 150px;
+    height: auto;
+}
+#types span {
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px;
+    background-color: #f0f0f0;
+    border-radius: 3px;
+}
